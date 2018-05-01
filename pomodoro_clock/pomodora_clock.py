@@ -6,6 +6,6 @@ from datetime import date
 class podomodoro_clock{
 	
 	def __init__(self):
-		datetime.
+		self.endtime = datetime.now + 
 
 }
