@@ -24,6 +24,7 @@ def pomodoro_clock_work():
 	while datetime.today().minute() != stop_working.minute():
 		print((datetime.today()))
 		pass
+	print("Take a break.")
 
 # activate the timer for a short break (5 min)
 def pomodoro_clock_short_break():
