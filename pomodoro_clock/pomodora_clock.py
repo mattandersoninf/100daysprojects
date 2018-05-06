@@ -62,10 +62,7 @@ def pomodoro_clock_long_break():
 	print("Stop slacking.")
 
 
-"""
 # now try making an actual timer
 
 def p_clock_work():
-"""
-
-pomodoro_clock_work()
+	#
