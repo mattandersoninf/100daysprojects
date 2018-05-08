@@ -65,4 +65,4 @@ def pomodoro_clock_long_break():
 # now try making an actual timer
 
 def p_clock_work():
-	#
+	datetime.time(0,25,0)
