@@ -1,0 +1,7 @@
+[
+  "test_guess.py::test_get_random_number",
+  "test_guess.py::test_guess",
+  "test_guess.py::test_validate_guess",
+  "test_guess.py::test_game_win",
+  "test_guess.py::test_game_lose"
+]
