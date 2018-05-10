@@ -26,18 +26,18 @@ class Game:
 		   If all good, return the int"""
 		guess = input(f'Guess a number between {START} and {END}: ')
 		if not guess:
-			raise Value Error('Please enter a number')
+			raise ValueError('Please enter a number')
 
 		try:
 			guess = int(guess)
 		except ValueError:
-			raise ValueError('Should be a number!')
+			raise ValueError('Should be a number')
 
 		if guess not in range(START, END+1):
-			raise ValueError('Number not in range!')
+			raise ValueError('Number not in range')
 
 		if guess in self._guesses:
-			raise ValueError('Already guesssed')
+			raise ValueError('Already guessed')
 
 		self._guesses.add(guess)
 		return guess
@@ -49,7 +49,8 @@ class Game:
 		   {guess} is too low
 		   Return a boolean"""
 		if guess == self._answer:
-			print(f'{guess} is correct')
+			print(f'{guess} is correct!')
+			return True
 		else:
 			high_or_low = 'low' if guess < self._answer else 'high'
 			print(f'{guess} is too {high_or_low}')
@@ -69,18 +70,20 @@ class Game:
 				print(ve)
 				continue
 
-		win = self._validate_guess(guess)
-		if win:
-			guess_str = self.num_guesses == 1 and "guess" or "guesses"
-			print(f'If took you {self.num_guesses} {guess_str}')
-			self._win = True
-			break
+			win = self._validate_guess(guess)
+			
+			if win:
+				guess_str = self.num_guesses == 1 and "guess" or "guesses"
+				print(f'It took you {self.num_guesses} {guess_str}')
+				self._win = True
+				break
 
 		else:
 			# else on while/for = ant-pattern? do you find it useful in this case!
-			print(f'Guesssed {MAX_GUESSES} tiems, answer was {self._answer}')
+			print(f'Guesssed {MAX_GUESSES} times, answer was {self._answer}')
 
-
+"""
 if __name__ == '__main__':
 	game = Game()
 	game()
+"""
