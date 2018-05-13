@@ -25,7 +25,9 @@ def game_loop():
 		# based on the order, you could just said 2 after 50 but just to be safe,
 		# define it directly
 		Dragon('Black Dragon', 50, scaliness=2, breathes_fire=False),
-		Wizard('Evil Wizard(aka Merlin)', 1000),
+		# WHY IN THE WORLD WOULD YOU MAKE A WIZARD THAT IS SO HIGH A LVL THAT IT'S IMPOSSIBLE TO BEAT??
+		# Wizard('Evil Wizard(aka Merlin)', 1000)
+		Wizard('Evil Wizard(aka Merlin)', 100)
 	]
 
 	hero = Wizard('Gandolf', 75)
@@ -46,7 +48,7 @@ def game_loop():
 
 		# READY TO PLAY A GAME??
 		# let the oppenent know what their oppnent in the game is
-		print('A {} of level {} has appeared from a dark and foggy forrest...\n'.format((active_creature.name,active_creature.level)))
+		print('A {} of level {} has appeared from a dark and foggy forrest...\n'.format(active_creature.name, active_creature.level))
 
 		# get the player's input commands to interact in the game
 		cmd = input('Do you [a]ttack, [r]unaway, or [l]ook around?')
@@ -54,7 +56,7 @@ def game_loop():
 		if cmd == 'a':
 			if hero.attack(active_creature):
 				creatures.remove(active_creature)
-				print("The wizard has defeated {}".format((active_creature.name)))
+				print("The wizard has defeated {}".format(active_creature.name))
 			else:
 				print("The wizard has been defeated by the powerful {}".format(active_creature.name))
 		elif cmd == "r":
@@ -65,6 +67,7 @@ def game_loop():
 				print(" * {} of level {}".format(c.name,c.level))
 		else:
 			miss_counter-=1
+			print('You have {} attempts left to input a valid command before the game exits.'.format(miss_counter))
 			if miss_counter == 0:
 				print("OK, exiting the game...bye!")
 				break

@@ -10,7 +10,7 @@ import random
 class Creature:
     # initialize a character object with a name and level
 	# name = str, level = int
-	def __init__(self, name, level):
+    def __init__(self, name, level):
         self.name = name
         self.level = level
 
