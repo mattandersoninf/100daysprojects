@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae48c93a-040e-43b5-80f0-ae3753f20855" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pomodoro_clock/pomodora_clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/pomodoro_clock/pomodora_clock.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="playable_hands.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="playable_hands.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rock_paper_scissors/playable_hands.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
+            <state relative-caret-position="15">
               <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pomodora_clock.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pomodoro_clock/pomodora_clock.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+              <folding>
+                <element signature="e#11#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,13 +63,14 @@
         <option value="$PROJECT_DIR$/dnd/actors.py" />
         <option value="$PROJECT_DIR$/dnd/dnd_game.py" />
         <option value="$PROJECT_DIR$/rock_paper_scissors/playable_hands.py" />
+        <option value="$PROJECT_DIR$/pomodoro_clock/pomodora_clock.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="684" />
-    <option name="height" value="824" />
+    <option name="width" value="1268" />
+    <option name="height" value="823" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -74,6 +88,11 @@
               <item name="100daysprojects" type="b2602c69:ProjectViewProjectNode" />
               <item name="100daysprojects" type="462c0819:PsiDirectoryNode" />
               <item name="dnd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysprojects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysprojects" type="462c0819:PsiDirectoryNode" />
+              <item name="pomodoro_clock" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="100daysprojects" type="b2602c69:ProjectViewProjectNode" />
@@ -102,6 +121,31 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="pomodora_clock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="100daysprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pomodoro_clock" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pomodoro_clock/pomodora_clock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pomodora_clock" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -116,14 +160,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="684" height="824" extended-state="0" />
+    <frame x="0" y="23" width="1268" height="823" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20906433" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.112776026" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32977304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -141,6 +186,34 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/playable_hands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnd/actors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/playable_hands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnd/actors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rock_paper_scissors/playable_hands.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
@@ -199,8 +272,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rock_paper_scissors/playable_hands.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
+        <state relative-caret-position="15">
           <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pomodoro_clock/pomodora_clock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+          <folding>
+            <element signature="e#11#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
