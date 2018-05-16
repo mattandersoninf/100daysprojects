@@ -16,6 +16,8 @@ resulting string until it hits 0 seconds and 0 minutes. The timdelta function do
 function so I compensate for those just by using python str's format method with zero padding, some arithmetic and the seconds
 attribute of the timedelta class. The total_seconds() method is preferred for larger time intervals but functions the same as the
 seconds attribute.
+
+TBH, this really doesn't need test functions. If you want to make some, go right ahead.
 """
 
 def p_clock_work():
