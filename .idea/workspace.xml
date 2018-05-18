@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ae48c93a-040e-43b5-80f0-ae3753f20855" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pomodoro_clock/pomodora_clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/pomodoro_clock/pomodora_clock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/playable_hands.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors/playable_hands.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,20 +18,26 @@
       <file leaf-file-name="playable_hands.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rock_paper_scissors/playable_hands.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+            <state relative-caret-position="120">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pomodora_clock.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="15_rock_paper_scissors.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pomodora_clock.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pomodoro_clock/pomodora_clock.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
-              <folding>
-                <element signature="e#11#42#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="339">
+              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
         </entry>
@@ -48,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/dnd/dnd_game.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="669">
-              <caret line="74" column="8" lean-forward="true" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+              <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -71,8 +78,9 @@
         <option value="$PROJECT_DIR$/rock_paper_scissors/rock_paper_scissors.py" />
         <option value="$PROJECT_DIR$/dnd/actors.py" />
         <option value="$PROJECT_DIR$/dnd/dnd_game.py" />
-        <option value="$PROJECT_DIR$/rock_paper_scissors/playable_hands.py" />
         <option value="$PROJECT_DIR$/pomodoro_clock/pomodora_clock.py" />
+        <option value="$PROJECT_DIR$/rock_paper_scissors/playable_hands.py" />
+        <option value="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors.py" />
       </list>
     </option>
   </component>
@@ -86,6 +94,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,18 +110,12 @@
             <path>
               <item name="100daysprojects" type="b2602c69:ProjectViewProjectNode" />
               <item name="100daysprojects" type="462c0819:PsiDirectoryNode" />
-              <item name="pomodoro_clock" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="100daysprojects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="100daysprojects" type="462c0819:PsiDirectoryNode" />
               <item name="rock_paper_scissors" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,12 +175,12 @@
     <frame x="0" y="23" width="814" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17567568" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17567568" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32977304" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32977304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -209,13 +212,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dnd/dnd_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pomodoro_clock/pomodora_clock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/playable_hands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnd/actors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnd/dnd_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="74" column="8" lean-forward="true" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pomodoro_clock/pomodora_clock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/playable_hands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dnd/actors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pomodoro_clock/pomodora_clock.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
-          <folding>
-            <element signature="e#11#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -289,13 +345,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/playable_hands.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dnd/actors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -306,17 +355,28 @@
     <entry file="file://$PROJECT_DIR$/dnd/dnd_game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="669">
-          <caret line="74" column="8" lean-forward="true" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pomodoro_clock/pomodora_clock.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
-          <folding>
-            <element signature="e#11#42#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="339">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/playable_hands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>

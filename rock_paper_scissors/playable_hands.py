@@ -1,4 +1,3 @@
-
 """
 You could very easily make a default dict and map to
 each of the option but the point of this exercise is
@@ -13,6 +12,7 @@ more information. Fruit for thought :)
 The base playable hand class that all playable hands will derive from
 """
 
+
 class playable_hands:
     """
     1. The game is currently intended to only support only 2 players
@@ -23,17 +23,19 @@ class playable_hands:
     3. The name for each playable hand will be represented by the first 3
        letters of the word associated
     """
-    def __init__(self, name, strength={}): #loss_counter = 0
+
+    def __init__(self, name, strength={}):  # loss_counter = 0
         self.name = name
         self.strength = strength
 
     def get_strength(self):
         return self.__strength
 
+
 class rock(playable_hands):
     def __init__(self):
-        super().__init__(name = 'roc', strength={
-            'fire':'pounds out',
+        super().__init__(name='roc', strength={
+            'fire': 'pounds out',
             'snake': 'crushes',
             'human': 'crushes',
             'wolf': 'crushes',
@@ -41,33 +43,36 @@ class rock(playable_hands):
             'tree': 'blocks growth of',
         })
 
+
 class fire(playable_hands):
     def __init__(self):
-        super().__init__(name = 'fir', strength={
+        super().__init__(name='fir', strength={
             'scissors': 'melts',
             'paper': 'burns',
             'snake': 'burns',
             'human': 'burns',
             'tree': 'burns',
             'wolf': ' burns',
-            'sponge':'burns',
+            'sponge': 'burns',
         })
+
 
 class scissors(playable_hands):
     def __init__(self):
         super.__init__(name='sci', strength={
             'air': 'swishes through',
-            'tree':'carve',
+            'tree': 'carve',
             'paper': 'cut',
-            'snake':'cut',
-            'human':'cut',
-            'wolf':'cut',
-            'sponge':'cut',
+            'snake': 'cut',
+            'human': 'cut',
+            'wolf': 'cut',
+            'sponge': 'cut',
         })
+
 
 class snake(playable_hands):
     def __init__(self):
-        super().__init__(name = 'sci', strength={
+        super().__init__(name='sci', strength={
             'human': 'bites',
             'wolf': 'bites',
             'sponge': 'swallows',
@@ -81,7 +86,7 @@ class snake(playable_hands):
 
 class human(playable_hands):
     def __init__(self):
-        super().__init__(name = 'hum', strength={
+        super().__init__(name='hum', strength={
             'tree': 'plants',
             'wolf': 'tames',
             'sponge': 'cleans with',
@@ -94,7 +99,7 @@ class human(playable_hands):
 
 class tree(playable_hands):
     def __init__(self):
-        super().__init__(name = 'tre', strength={
+        super().__init__(name='tre', strength={
             'wolf': 'shelters',
             # That's either a very big tree or a very small dragon
             'dragon': 'shelters',
@@ -148,7 +153,7 @@ class paper(playable_hands):
 
 class air(playable_hands):
     def __init__(self):
-        super().__init__(name = 'air', strength={
+        super().__init__(name='air', strength={
             'fire': 'blows out',
             'rock': 'erodes',
             'water': 'evaporates',
@@ -161,7 +166,7 @@ class air(playable_hands):
 
 class water(playable_hands):
     def __init__(self):
-        super().__init__(name = 'wat', strength={
+        super().__init__(name='wat', strength={
             'devil': 'drowns',
             'dragon': 'drowns',
             'rock': 'erodes',
@@ -174,7 +179,7 @@ class water(playable_hands):
 
 class dragon(playable_hands):
     def __init__(self):
-        super().__init__(name = 'dra', strength={
+        super().__init__(name='dra', strength={
             'devil': 'commands',
             # It breathes both lightning and fire!!
             'lightning': 'breathes',
@@ -188,7 +193,7 @@ class dragon(playable_hands):
 
 class devil(playable_hands):
     def __init__(self):
-        super().__init__(name = 'dev', strength={
+        super().__init__(name='dev', strength={
             'rock': 'hurls',
             'fire': 'breathes',
             'scissors': 'immune to',
@@ -201,7 +206,7 @@ class devil(playable_hands):
 
 class lightning(playable_hands):
     def __init__(self):
-        super().__init__(name = 'lig', strength={
+        super().__init__(name='lig', strength={
             'gun': 'melts',
             'scissors': 'melts',
             'rock': 'splits',
@@ -214,7 +219,7 @@ class lightning(playable_hands):
 
 class gun(playable_hands):
     def __init__(self):
-        super().__init__(name = 'gun', strength={
+        super().__init__(name='gun', strength={
             'rock': 'targets',
             'tree': 'targets',
             # Who shoots at fire??
