@@ -27,6 +27,9 @@ right ahead.
 def pomodoro_clock_work():
     work_time = timedelta(minutes=25)
 
+    # just print the start time for the sake of OCD
+    print('25:00')
+
     while work_time != timedelta(seconds=0):
         work_time = work_time - timedelta(seconds=1)
 
@@ -45,6 +48,9 @@ def pomodoro_clock_work():
 def pomodoro_clock_short():
     work_time = timedelta(minutes=5)
 
+    # just print the start time for the sake of OCD
+    print('05:00')
+
     while work_time != timedelta(seconds=0):
         work_time = work_time - timedelta(seconds=1)
 
@@ -61,6 +67,9 @@ def pomodoro_clock_short():
 # long 30 minute break
 def pomodoro_clock_long():
     work_time = timedelta(minutes=30)
+
+    # just print the start time for the sake of OCD
+    print('30:00')
 
     while work_time != timedelta(seconds=0):
         work_time = work_time - timedelta(seconds=1)
