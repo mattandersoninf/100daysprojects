@@ -29,7 +29,12 @@ class playable_hands:
         self.strength = strength
 
     def get_strength(self):
-        return self.__strength
+        return self.strength
+
+    def __dict__(self):
+        self.__dict__ = {'roc':rock(),
+                         'fir':fire(),
+                         'sci':scissors()}
 
 
 class rock(playable_hands):
