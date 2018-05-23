@@ -1,4 +1,4 @@
-from playable_hands import playable_hands
+from hands import playable_hands, rock,
 
 def handFight(hand1, hand2):
     if hand1.name in hand2.strength:
@@ -9,6 +9,14 @@ def handFight(hand1, hand2):
         print('Nothing happened. Neither hand beats the other.')
 
 
+# there's a way to check whether the cmd is valid prior to putting it in the method to reduce the time,
+# do some research
+def choose_hand(cmd):
+    if cmd == 'roc':
+        return
+
+
+
 def main():
 
     while True:
@@ -17,11 +25,11 @@ def main():
 
         player1 = input('Choose your hand: \n[roc]k, \n[fir]e, \n[sci]ssors, \n[sna]ke, \n[hum]an, \n[tre]e, \n[wol], \n[spo]nge, \n[pap]er, \n[air], \n[wat]er, \n[dra]gon, \n[dev]il, \n[lig]htening, \n[gun] \n')
 
-        p1 = playable_hands.hand_dict(player1)
+        #p1 = playable_hands.hand_dict(player1)
 
         player2 = input('Choose your hand: \n[roc]k, \n[fir]e, \n[sci]ssors, \n[sna]ke, \n[hum]an, \n[tre]e, \n[wol], \n[spo]nge, \n[pap]er, \n[air], \n[wat]er, \n[dra]gon, \n[dev]il, \n[lig]htening, \n[gun] \n')
 
-        p2 = playable_hands.hand_dict(player2)
+        #p2 = playable_hands.hand_dict(player2)
 
         handFight(p1, p2)
 

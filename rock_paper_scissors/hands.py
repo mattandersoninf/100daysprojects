@@ -27,21 +27,6 @@ class playable_hands:
     def __init__(self, name, strength={}):  # loss_counter = 0
         self.name = name
         self.strength = strength
-        self.hand_dict = {'roc':rock(),
-                          'fir':fire(),
-                          'sci':scissors(),
-                          'sna':snake(),
-                          'hum':human(),
-                          'tre':tree(),
-                          'wol':wolf(),
-                          'spo':sponge(),
-                          'pap':paper(),
-                          'air':air(),
-                          'wat':water(),
-                          'dra':dragon(),
-                          'dev':devil(),
-                          'lig':lightning(),
-                          'gun':gun()}
 
     def get_strength(self):
         return self.strength
