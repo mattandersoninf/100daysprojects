@@ -1,7 +1,7 @@
 """
-You could very easily make a default dict and map to
+You could very easily make a excel file and map to
 each of the option but the point of this exercise is
-to practice making subclasses, that being said, I did
+to practice making subclasses. That being said, I did
 use dictionaries to the strengths of each obj. It is
 possible to also make for instance a 'beat' method for
 beating each individual hand so you wouldn't have to store
@@ -32,11 +32,11 @@ class playable_hands:
         return self.strength
 
 
-
 class rock(playable_hands):
     def __init__(self):
         super().__init__(name='roc', strength={
             'fire': 'pounds out',
+            'scissors':'crushes',
             'snake': 'crushes',
             'human': 'crushes',
             'wolf': 'crushes',
