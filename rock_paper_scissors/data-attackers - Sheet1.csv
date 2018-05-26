@@ -1,0 +1,16 @@
+Attacker,Rock,Fire,Scissors,Snake,Human,Tree,Wolf,Sponge,Paper,Air,Water,Dragon,Devil,Lightning,Gun
+Rock,D,pounds out,crushes,crushes,curshes,blocks growth of,crushes,crushes,L,L,L,L,L,L,L
+Fire,L,D,melts,burns,burns,burns,burns,burns,burns,L,L,L,L,L,L
+Scissors,L,L,D,cuts,cuts,carves,cuts,cuts,cuts,swishes through,L,L,L,L,L
+Snake,L,L,L,D,bites,nests in,bites,swallows,nests in,breathes,drinks,L,L,L,L
+Human,L,L,L,L,D,plants,tames,cleans with,writes,breathes,drinks,slays,L,L,L
+Tree,L,L,L,L,L,D,shelters,outlives,becomes,produces,drinks,shelters,imprisons,L,L
+Wolf,L,L,L,L,L,L,D,chews up,chews up,breathes,drinks,outruns,bites butt of,outruns,L
+Sponge,L,L,L,L,L,L,L,D,soaks,uses pockets of,absorbs,cleanses,cleanses,conducts,cleans
+Paper,covers,L,L,L,L,L,L,L,D,fans,floats on,rebukes,rebukes,defines,outlaws
+Air,erodes,blows out,L,L,L,L,L,L,L,D,evaporates,freezes,chokes,creates,tarnishes
+Water,erodes,puts out,rusts,L,L,L,L,L,L,L,D,drowns,drowns,conducts,rusts
+Dragon,rests on,breathes,is immune to,spawns,L,L,L,L,L,L,L,D,commands,breathes,immune to
+Devil,hurls,breathes,is immune to,eats,possesses,L,L,L,L,L,L,L,D,casts,immune to
+Lightning,splits,starts,melts,eats,strikes,splits,L,L,L,L,L,L,L,D,immune to
+Gun,targets,targets,outclasses,bites,shoots,targets,targets,L,L,L,L,L,L,L,D
