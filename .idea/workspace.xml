@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae48c93a-040e-43b5-80f0-ae3753f20855" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/hands.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors/hands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/test_15_rock_paper_scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors/test_15_rock_paper_scissors.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,13 +15,50 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="hands.py" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/rock_paper_scissors/hands.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="390">
+                    <caret line="72" selection-start-line="72" selection-end-line="72" />
+                    <folding>
+                      <element signature="e#470#1108#0" />
+                      <element signature="e#1134#1448#0" />
+                      <element signature="e#1474#1765#0" />
+                      <element signature="e#1795#2080#0" />
+                      <element signature="e#2107#2480#0" />
+                      <element signature="e#2507#2805#0" />
+                      <element signature="e#2831#3204#0" />
+                      <element signature="e#3230#3586#0" />
+                      <element signature="e#3614#3922#0" />
+                      <element signature="e#3949#4249#0" />
+                      <element signature="e#4274#4582#0" />
+                      <element signature="e#4609#4910#0" />
+                      <element signature="e#4938#5303#0" />
+                      <element signature="e#5330#5636#0" />
+                      <element signature="e#5667#5960#0" />
+                      <element signature="e#5985#6321#0" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="15_rock_paper_scissors_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            <state relative-caret-position="285">
+              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -26,37 +66,19 @@
       <file leaf-file-name="15_rock_paper_scissors_2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <marker date="1527313293907" expanded="true" signature="28:32" ph="..." />
-                <marker date="1527313293907" expanded="true" signature="43:47" ph="..." />
-              </folding>
+            <state relative-caret-position="420">
+              <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hands.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rock_paper_scissors/hands.py">
+      <file leaf-file-name="dnd_game.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dnd/dnd_game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="669">
+              <caret line="75" column="18" lean-forward="true" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
               <folding>
-                <element signature="e#479#1117#0" />
-                <element signature="e#1152#1466#0" />
-                <element signature="e#1467#1758#0" />
-                <element signature="e#1831#2116#0" />
-                <element signature="e#2118#2491#0" />
-                <element signature="e#2527#2825#0" />
-                <element signature="e#2860#3233#0" />
-                <element signature="e#3661#3969#0" />
-                <element signature="e#4005#4305#0" />
-                <element signature="e#4339#4647#0" />
-                <element signature="e#4683#4984#0" />
-                <element signature="e#5021#5386#0" />
-                <element signature="e#5422#5728#0" />
-                <element signature="e#5768#6061#0" />
-                <element signature="e#6095#6431#0" />
+                <element signature="e#71#114#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,25 +87,25 @@
       <file leaf-file-name="test_15_rock_paper_scissors.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_15_rock_paper_scissors.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <marker date="1527303481682" expanded="true" signature="58:61" ph="..." />
-                <marker date="1527303481682" expanded="true" signature="77:81" ph="..." />
-                <marker date="1527303481682" expanded="true" signature="97:101" ph="..." />
-                <marker date="1527303481682" expanded="true" signature="121:125" ph="..." />
-                <marker date="1527303481682" expanded="true" signature="142:146" ph="..." />
-                <marker date="1527303481682" expanded="true" signature="163:167" ph="..." />
-                <marker date="1527303481682" expanded="true" signature="183:187" ph="..." />
-                <marker date="1527303481682" expanded="true" signature="203:207" ph="..." />
-                <marker date="1527303481682" expanded="true" signature="225:229" ph="..." />
-                <marker date="1527303481682" expanded="true" signature="246:250" ph="..." />
-                <marker date="1527303481682" expanded="true" signature="265:269" ph="..." />
-                <marker date="1527303481682" expanded="true" signature="286:290" ph="..." />
-                <marker date="1527303481682" expanded="true" signature="308:312" ph="..." />
-                <marker date="1527303481682" expanded="true" signature="329:333" ph="..." />
-                <marker date="1527303481682" expanded="true" signature="354:358" ph="..." />
+                <marker date="1527350412949" expanded="true" signature="75:78" ph="..." />
+                <marker date="1527350412949" expanded="true" signature="94:98" ph="..." />
+                <marker date="1527350412949" expanded="true" signature="114:118" ph="..." />
+                <marker date="1527350412949" expanded="true" signature="138:142" ph="..." />
+                <marker date="1527350412949" expanded="true" signature="159:163" ph="..." />
+                <marker date="1527350412949" expanded="true" signature="180:184" ph="..." />
+                <marker date="1527350412949" expanded="true" signature="200:204" ph="..." />
+                <marker date="1527350412949" expanded="true" signature="220:224" ph="..." />
+                <marker date="1527350412949" expanded="true" signature="242:246" ph="..." />
+                <marker date="1527350412949" expanded="true" signature="263:267" ph="..." />
+                <marker date="1527350412949" expanded="true" signature="282:286" ph="..." />
+                <marker date="1527350412949" expanded="true" signature="303:307" ph="..." />
+                <marker date="1527350412949" expanded="true" signature="325:329" ph="..." />
+                <marker date="1527350412949" expanded="true" signature="346:350" ph="..." />
+                <marker date="1527350412949" expanded="true" signature="371:375" ph="..." />
               </folding>
             </state>
           </provider>
@@ -118,16 +140,18 @@
         <option value="$PROJECT_DIR$/dnd/dnd_game.py" />
         <option value="$PROJECT_DIR$/pomodoro_clock/pomodora_clock.py" />
         <option value="$PROJECT_DIR$/rock_paper_scissors/playable_hands.py" />
-        <option value="$PROJECT_DIR$/rock_paper_scissors/test_15_rock_paper_scissors.py" />
         <option value="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors.py" />
+        <option value="$PROJECT_DIR$/rock_paper_scissors/test_15_rock_paper_scissors.py" />
         <option value="$PROJECT_DIR$/rock_paper_scissors/hands.py" />
+        <option value="$PROJECT_DIR$/rock_paper_scissors/Hands.py" />
+        <option value="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_1.py" />
         <option value="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="674" />
+    <option name="width" value="699" />
     <option name="height" value="823" />
   </component>
   <component name="ProjectView">
@@ -135,7 +159,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,12 +169,18 @@
             <path>
               <item name="100daysprojects" type="b2602c69:ProjectViewProjectNode" />
               <item name="100daysprojects" type="462c0819:PsiDirectoryNode" />
+              <item name="dnd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysprojects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysprojects" type="462c0819:PsiDirectoryNode" />
               <item name="rock_paper_scissors" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,19 +237,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="674" height="823" extended-state="0" />
+    <frame x="0" y="23" width="699" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30118695" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29041487" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32977304" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32977304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -554,10 +583,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dnd/dnd_game.py">
+    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_15_rock_paper_scissors.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1527350412949" expanded="true" signature="75:78" ph="..." />
+            <marker date="1527350412949" expanded="true" signature="94:98" ph="..." />
+            <marker date="1527350412949" expanded="true" signature="114:118" ph="..." />
+            <marker date="1527350412949" expanded="true" signature="138:142" ph="..." />
+            <marker date="1527350412949" expanded="true" signature="159:163" ph="..." />
+            <marker date="1527350412949" expanded="true" signature="180:184" ph="..." />
+            <marker date="1527350412949" expanded="true" signature="200:204" ph="..." />
+            <marker date="1527350412949" expanded="true" signature="220:224" ph="..." />
+            <marker date="1527350412949" expanded="true" signature="242:246" ph="..." />
+            <marker date="1527350412949" expanded="true" signature="263:267" ph="..." />
+            <marker date="1527350412949" expanded="true" signature="282:286" ph="..." />
+            <marker date="1527350412949" expanded="true" signature="303:307" ph="..." />
+            <marker date="1527350412949" expanded="true" signature="325:329" ph="..." />
+            <marker date="1527350412949" expanded="true" signature="346:350" ph="..." />
+            <marker date="1527350412949" expanded="true" signature="371:375" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -568,70 +615,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_15_rock_paper_scissors.py">
+    <entry file="file://$PROJECT_DIR$/dnd/dnd_game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="669">
+          <caret line="75" column="18" lean-forward="true" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1527303481682" expanded="true" signature="58:61" ph="..." />
-            <marker date="1527303481682" expanded="true" signature="77:81" ph="..." />
-            <marker date="1527303481682" expanded="true" signature="97:101" ph="..." />
-            <marker date="1527303481682" expanded="true" signature="121:125" ph="..." />
-            <marker date="1527303481682" expanded="true" signature="142:146" ph="..." />
-            <marker date="1527303481682" expanded="true" signature="163:167" ph="..." />
-            <marker date="1527303481682" expanded="true" signature="183:187" ph="..." />
-            <marker date="1527303481682" expanded="true" signature="203:207" ph="..." />
-            <marker date="1527303481682" expanded="true" signature="225:229" ph="..." />
-            <marker date="1527303481682" expanded="true" signature="246:250" ph="..." />
-            <marker date="1527303481682" expanded="true" signature="265:269" ph="..." />
-            <marker date="1527303481682" expanded="true" signature="286:290" ph="..." />
-            <marker date="1527303481682" expanded="true" signature="308:312" ph="..." />
-            <marker date="1527303481682" expanded="true" signature="329:333" ph="..." />
-            <marker date="1527303481682" expanded="true" signature="354:358" ph="..." />
+            <element signature="e#71#114#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rock_paper_scissors/hands.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="390">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
           <folding>
-            <element signature="e#479#1117#0" />
-            <element signature="e#1152#1466#0" />
-            <element signature="e#1467#1758#0" />
-            <element signature="e#1831#2116#0" />
-            <element signature="e#2118#2491#0" />
-            <element signature="e#2527#2825#0" />
-            <element signature="e#2860#3233#0" />
-            <element signature="e#3661#3969#0" />
-            <element signature="e#4005#4305#0" />
-            <element signature="e#4339#4647#0" />
-            <element signature="e#4683#4984#0" />
-            <element signature="e#5021#5386#0" />
-            <element signature="e#5422#5728#0" />
-            <element signature="e#5768#6061#0" />
-            <element signature="e#6095#6431#0" />
+            <element signature="e#470#1108#0" />
+            <element signature="e#1134#1448#0" />
+            <element signature="e#1474#1765#0" />
+            <element signature="e#1795#2080#0" />
+            <element signature="e#2107#2480#0" />
+            <element signature="e#2507#2805#0" />
+            <element signature="e#2831#3204#0" />
+            <element signature="e#3230#3586#0" />
+            <element signature="e#3614#3922#0" />
+            <element signature="e#3949#4249#0" />
+            <element signature="e#4274#4582#0" />
+            <element signature="e#4609#4910#0" />
+            <element signature="e#4938#5303#0" />
+            <element signature="e#5330#5636#0" />
+            <element signature="e#5667#5960#0" />
+            <element signature="e#5985#6321#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        <state relative-caret-position="285">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <marker date="1527313293907" expanded="true" signature="28:32" ph="..." />
-            <marker date="1527313293907" expanded="true" signature="43:47" ph="..." />
-          </folding>
+        <state relative-caret-position="420">
+          <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
         </state>
       </provider>
     </entry>

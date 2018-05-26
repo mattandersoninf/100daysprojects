@@ -13,7 +13,7 @@ The base playable hand class that all playable hands will derive from
 """
 
 
-class playable_hands:
+class Hands:
     """
     1. The game is currently intended to only support only 2 players
     2. Add on a loss counter to track of the amount of opponents hands that beat
@@ -32,7 +32,7 @@ class playable_hands:
         return self.strength
 
 
-class rock(playable_hands):
+class Rock(Hands):
     def __init__(self):
         super().__init__(name='roc', strength={
             'fire': 'pounds out',
@@ -45,7 +45,7 @@ class rock(playable_hands):
         })
 
 
-class fire(playable_hands):
+class Fire(Hands):
     def __init__(self):
         super().__init__(name='fir', strength={
             'scissors': 'melts',
@@ -58,7 +58,7 @@ class fire(playable_hands):
         })
 
 
-class scissors(playable_hands):
+class Scissors(Hands):
     def __init__(self):
         super().__init__(name='sci', strength={
             'air': 'swishes through',
@@ -71,7 +71,7 @@ class scissors(playable_hands):
         })
 
 
-class snake(playable_hands):
+class Snake(Hands):
     def __init__(self):
         super().__init__(name='sci', strength={
             'human': 'bites',
@@ -85,7 +85,7 @@ class snake(playable_hands):
         })
 
 
-class human(playable_hands):
+class Human(Hands):
     def __init__(self):
         super().__init__(name='hum', strength={
             'tree': 'plants',
@@ -98,7 +98,7 @@ class human(playable_hands):
         })
 
 
-class tree(playable_hands):
+class Tree(Hands):
     def __init__(self):
         super().__init__(name='tre', strength={
             'wolf': 'shelters',
@@ -112,7 +112,7 @@ class tree(playable_hands):
         })
 
 
-class wolf(playable_hands):
+class Wolf(Hands):
     def __init__(self):
         super().__init__(name='wol', strength={
             'sponge': 'chews up',
@@ -126,7 +126,7 @@ class wolf(playable_hands):
         })
 
 
-class sponge(playable_hands):
+class Sponge(Hands):
     def __init__(self):
         super().__init__(name='spo', strength={
             'paper': 'soaks',
@@ -139,7 +139,7 @@ class sponge(playable_hands):
         })
 
 
-class paper(playable_hands):
+class Paper(Hands):
     def __init__(self):
         super().__init__(name='pap', strength={
             'air': 'fans',
@@ -152,7 +152,7 @@ class paper(playable_hands):
         })
 
 
-class air(playable_hands):
+class Air(Hands):
     def __init__(self):
         super().__init__(name='air', strength={
             'fire': 'blows out',
@@ -165,7 +165,7 @@ class air(playable_hands):
         })
 
 
-class water(playable_hands):
+class Water(Hands):
     def __init__(self):
         super().__init__(name='wat', strength={
             'devil': 'drowns',
@@ -178,7 +178,7 @@ class water(playable_hands):
         })
 
 
-class dragon(playable_hands):
+class Dragon(Hands):
     def __init__(self):
         super().__init__(name='dra', strength={
             'devil': 'commands',
@@ -192,7 +192,7 @@ class dragon(playable_hands):
         })
 
 
-class devil(playable_hands):
+class Devil(Hands):
     def __init__(self):
         super().__init__(name='dev', strength={
             'rock': 'hurls',
@@ -205,7 +205,7 @@ class devil(playable_hands):
         })
 
 
-class lightning(playable_hands):
+class Lightning(Hands):
     def __init__(self):
         super().__init__(name='lig', strength={
             'gun': 'melts',
@@ -218,7 +218,7 @@ class lightning(playable_hands):
         })
 
 
-class gun(playable_hands):
+class Gun(Hands):
     def __init__(self):
         super().__init__(name='gun', strength={
             'rock': 'targets',
