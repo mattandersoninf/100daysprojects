@@ -12,43 +12,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file leaf-file-name="hands.py" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/rock_paper_scissors/hands.py">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="390">
-                    <caret line="72" selection-start-line="72" selection-end-line="72" />
-                    <folding>
-                      <element signature="e#470#1108#0" />
-                      <element signature="e#1134#1448#0" />
-                      <element signature="e#1474#1765#0" />
-                      <element signature="e#1795#2080#0" />
-                      <element signature="e#2107#2480#0" />
-                      <element signature="e#2507#2805#0" />
-                      <element signature="e#2831#3204#0" />
-                      <element signature="e#3230#3586#0" />
-                      <element signature="e#3614#3922#0" />
-                      <element signature="e#3949#4249#0" />
-                      <element signature="e#4274#4582#0" />
-                      <element signature="e#4609#4910#0" />
-                      <element signature="e#4938#5303#0" />
-                      <element signature="e#5330#5636#0" />
-                      <element signature="e#5667#5960#0" />
-                      <element signature="e#5985#6321#0" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="15_rock_paper_scissors_1.py" pinned="false" current-in-tab="false">
@@ -63,8 +26,8 @@
       <file leaf-file-name="15_rock_paper_scissors_2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="105">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -72,7 +35,7 @@
       <file leaf-file-name="dnd_game.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dnd/dnd_game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
+            <state relative-caret-position="669">
               <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
               <folding>
                 <element signature="e#71#114#0" expanded="true" />
@@ -117,6 +80,33 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="hands.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rock_paper_scissors/hands.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#470#1108#0" />
+                <element signature="e#1134#1448#0" />
+                <element signature="e#1474#1765#0" />
+                <element signature="e#1795#2080#0" />
+                <element signature="e#2107#2480#0" />
+                <element signature="e#2507#2805#0" />
+                <element signature="e#2831#3204#0" />
+                <element signature="e#3230#3586#0" />
+                <element signature="e#3614#3922#0" />
+                <element signature="e#3949#4249#0" />
+                <element signature="e#4274#4582#0" />
+                <element signature="e#4609#4910#0" />
+                <element signature="e#4938#5303#0" />
+                <element signature="e#5330#5636#0" />
+                <element signature="e#5667#5960#0" />
+                <element signature="e#5985#6321#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -156,7 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,6 +167,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -580,6 +570,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/hands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#470#1108#0" />
+            <element signature="e#1134#1448#0" />
+            <element signature="e#1474#1765#0" />
+            <element signature="e#1795#2080#0" />
+            <element signature="e#2107#2480#0" />
+            <element signature="e#2507#2805#0" />
+            <element signature="e#2831#3204#0" />
+            <element signature="e#3230#3586#0" />
+            <element signature="e#3614#3922#0" />
+            <element signature="e#3949#4249#0" />
+            <element signature="e#4274#4582#0" />
+            <element signature="e#4609#4910#0" />
+            <element signature="e#4938#5303#0" />
+            <element signature="e#5330#5636#0" />
+            <element signature="e#5667#5960#0" />
+            <element signature="e#5985#6321#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_15_rock_paper_scissors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -614,7 +636,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dnd/dnd_game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
+        <state relative-caret-position="669">
           <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
           <folding>
             <element signature="e#71#114#0" expanded="true" />
@@ -622,42 +644,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/hands.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-          <folding>
-            <element signature="e#470#1108#0" />
-            <element signature="e#1134#1448#0" />
-            <element signature="e#1474#1765#0" />
-            <element signature="e#1795#2080#0" />
-            <element signature="e#2107#2480#0" />
-            <element signature="e#2507#2805#0" />
-            <element signature="e#2831#3204#0" />
-            <element signature="e#3230#3586#0" />
-            <element signature="e#3614#3922#0" />
-            <element signature="e#3949#4249#0" />
-            <element signature="e#4274#4582#0" />
-            <element signature="e#4609#4910#0" />
-            <element signature="e#4938#5303#0" />
-            <element signature="e#5330#5636#0" />
-            <element signature="e#5667#5960#0" />
-            <element signature="e#5985#6321#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="105">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
         </state>
       </provider>
     </entry>
