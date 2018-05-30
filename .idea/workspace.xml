@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae48c93a-040e-43b5-80f0-ae3753f20855" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/itertools/traffic_light.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itertools/traffic_light.py" beforeDir="false" afterPath="$PROJECT_DIR$/itertools/traffic_light.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +16,8 @@
       <file leaf-file-name="traffic_light.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/itertools/traffic_light.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -211,6 +209,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="659" height="823" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3080425" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -631,8 +630,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itertools/traffic_light.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
