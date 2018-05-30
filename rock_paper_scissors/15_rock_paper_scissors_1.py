@@ -1,4 +1,4 @@
-from hands import playable_hands, rock,
+from hands import Hands
 
 def game_loop(hand1, hand2):
     if hand1.name in hand2.strength:
