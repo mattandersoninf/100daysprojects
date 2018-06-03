@@ -17,13 +17,14 @@ def game_loop():
 
     hand_2_str = None
 
-    while incorrect_input_counter > 0:
+    with open('data-attackers.csv') as att:
 
-        cmd1 = input('Choose your hand: \n[Rock], \n[Fire], \n[Scissors], \n[Snake], \n[Human], \n[Tree], \n[Wolf], \n[Sponge], \n[Paper], \n[Air], \n[Water], \n[Dragon], \n[Devil], \n[Lightening], \n[Gun] \n')
+        reader = csv.DictReader(att)
 
-        with open('data-attackers.csv') as att:
+        while incorrect_input_counter > 0:
 
-            reader = csv.DictReader(att)
+            cmd1 = input(
+                'Choose your hand: \n[Rock], \n[Fire], \n[Scissors], \n[Snake], \n[Human], \n[Tree], \n[Wolf], \n[Sponge], \n[Paper], \n[Air], \n[Water], \n[Dragon], \n[Devil], \n[Lightening], \n[Gun] \n')
 
             for row in reader:
 
@@ -33,24 +34,27 @@ def game_loop():
 
                     break
 
+            if hand_1_str == None :
 
+                print(cmd1+' is not a valid input.')
 
+                incorrect_input_counter -= 1
 
+            else: break
 
+        if incorrect_input_counter == 0:
 
-
-        with open('data-attackers.csv') as att:
-
-            reader = csv.DictReader(att)
 
     cmd2 = input(
-
-        'Choose your hand: \n[roc]k, \n[fir]e, \n[sci]ssors, \n[sna]ke, \n[hum]an, \n[tre]e, \n[wol], \n[spo]nge, \n[pap]er, \n[air], \n[wat]er, \n[dra]gon, \n[dev]il, \n[lig]htening, \n[gun] \n')
-
+        'Choose your hand: \n[Rock], \n[Fire], \n[Scissors], \n[Snake], \n[Human], \n[Tree], \n[Wolf], \n[Sponge], \n[Paper], \n[Air], \n[Water], \n[Dragon], \n[Devil], \n[Lightening], \n[Gun] \n')
 
 
 def print_header():
     print("Let's play Rock Paper Scissors x15.")
+
+
+def teardown():
+    # this function is terminating the program
 
 
 def main():
