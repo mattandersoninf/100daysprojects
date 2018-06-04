@@ -2,21 +2,11 @@ import unittest
 import pytest
 import rps15
 
-def test_getting_data_from_csv():
-    while True:
 
-        with open('data-attacker.csv') as f:
+def test_print_header():
+    rps15.print_header()
 
-            reader = csv.DictReader(f)
-
-            cmd = input('Please enter a hand value and see what comes out: \n')
-
-            for row in reader:
-                print("Here are your hand's weaknesses: {}".format(row[cmd]))
-
-            print('\n')
-
-
+"""
 def test_invalid_inputs():
 
 
@@ -75,3 +65,7 @@ def test_lightning():
 
 
 def test_gun()
+"""
+
+if __name__ == '__main__':
+    test_print_header()

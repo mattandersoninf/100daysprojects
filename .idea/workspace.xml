@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae48c93a-040e-43b5-80f0-ae3753f20855" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/rock_paper_scissors/rps15.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/data-attackers - Sheet1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors/data-attacker.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/hands.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/test_15_rock_paper_scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors/test_15_rock_paper_scissors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/test_15_rock_paper_scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors/test_rps15.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,28 +14,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_15_rock_paper_scissors.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_15_rock_paper_scissors.py">
+      <file leaf-file-name="test_rps15.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_rps15.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <marker date="1528058336824" expanded="true" signature="424:427" ph="..." />
-                <marker date="1528058336824" expanded="true" signature="443:447" ph="..." />
-                <marker date="1528058336824" expanded="true" signature="463:466" ph="..." />
-                <marker date="1528058336824" expanded="true" signature="486:490" ph="..." />
-                <marker date="1528058336824" expanded="true" signature="507:511" ph="..." />
-                <marker date="1528058336824" expanded="true" signature="528:532" ph="..." />
-                <marker date="1528058336824" expanded="true" signature="548:552" ph="..." />
-                <marker date="1528058336824" expanded="true" signature="568:572" ph="..." />
-                <marker date="1528058336824" expanded="true" signature="590:594" ph="..." />
-                <marker date="1528058336824" expanded="true" signature="611:615" ph="..." />
-                <marker date="1528058336824" expanded="true" signature="630:634" ph="..." />
-                <marker date="1528058336824" expanded="true" signature="651:655" ph="..." />
-                <marker date="1528058336824" expanded="true" signature="673:677" ph="..." />
-                <marker date="1528058336824" expanded="true" signature="694:698" ph="..." />
-                <marker date="1528058336824" expanded="true" signature="719:722" ph="..." />
               </folding>
             </state>
           </provider>
@@ -58,10 +38,15 @@
       <file leaf-file-name="rps15.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rock_paper_scissors/rps15.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="89" column="11" lean-forward="true" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="11" />
+            <state relative-caret-position="285">
+              <caret line="89" column="11" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="11" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#308#466#0" />
+                <element signature="e#473#2623#0" />
+                <element signature="e#2441#2485#0" />
+                <element signature="e#2508#2665#0" />
+                <element signature="e#3306#3337#0" />
               </folding>
             </state>
           </provider>
@@ -105,6 +90,7 @@
         <option value="$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_2.py" />
         <option value="$PROJECT_DIR$/rock_paper_scissors/rps15.py" />
         <option value="$PROJECT_DIR$/rock_paper_scissors/test_15_rock_paper_scissors.py" />
+        <option value="$PROJECT_DIR$/rock_paper_scissors/test_rps15.py" />
       </list>
     </option>
   </component>
@@ -154,7 +140,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="15_rock_paper_scissors_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_rps15" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysprojects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,7 +160,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.15_rock_paper_scissors_2" />
+        <item itemvalue="Python.test_rps15" />
       </list>
     </recent_temporary>
   </component>
@@ -195,12 +181,12 @@
     <frame x="722" y="23" width="718" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2827298" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2827298" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32977304" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32977304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -219,7 +205,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -564,35 +550,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rock_paper_scissors/rps15.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="89" column="11" lean-forward="true" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="11" />
+        <state relative-caret-position="285">
+          <caret line="89" column="11" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="11" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#308#466#0" />
+            <element signature="e#473#2623#0" />
+            <element signature="e#2441#2485#0" />
+            <element signature="e#2508#2665#0" />
+            <element signature="e#3306#3337#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_15_rock_paper_scissors.py">
+    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_rps15.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1528058336824" expanded="true" signature="424:427" ph="..." />
-            <marker date="1528058336824" expanded="true" signature="443:447" ph="..." />
-            <marker date="1528058336824" expanded="true" signature="463:466" ph="..." />
-            <marker date="1528058336824" expanded="true" signature="486:490" ph="..." />
-            <marker date="1528058336824" expanded="true" signature="507:511" ph="..." />
-            <marker date="1528058336824" expanded="true" signature="528:532" ph="..." />
-            <marker date="1528058336824" expanded="true" signature="548:552" ph="..." />
-            <marker date="1528058336824" expanded="true" signature="568:572" ph="..." />
-            <marker date="1528058336824" expanded="true" signature="590:594" ph="..." />
-            <marker date="1528058336824" expanded="true" signature="611:615" ph="..." />
-            <marker date="1528058336824" expanded="true" signature="630:634" ph="..." />
-            <marker date="1528058336824" expanded="true" signature="651:655" ph="..." />
-            <marker date="1528058336824" expanded="true" signature="673:677" ph="..." />
-            <marker date="1528058336824" expanded="true" signature="694:698" ph="..." />
-            <marker date="1528058336824" expanded="true" signature="719:722" ph="..." />
           </folding>
         </state>
       </provider>
