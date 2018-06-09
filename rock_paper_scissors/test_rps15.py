@@ -1,12 +1,16 @@
 import unittest
 import pytest
 import rps15
+import sys
 
 
 def test_print_header():
     rps15.print_header()
+    assert sys.stdout.getvalue().strip() == "Let's play Rock Paper Scissors x15."
+
 
 def test_invalid_inputs():
+
 
 
 def test_rock():

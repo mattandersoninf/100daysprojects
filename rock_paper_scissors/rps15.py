@@ -88,6 +88,7 @@ def teardown():
 
 
 def main():
+
     print_header()
 
     game_loop()
