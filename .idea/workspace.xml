@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ae48c93a-040e-43b5-80f0-ae3753f20855" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/rps15.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors/rps15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/test_rps15.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors/test_rps15.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +16,8 @@
       <file leaf-file-name="test_rps15.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_rps15.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+            <state relative-caret-position="15">
+              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
                 <marker date="1528592042231" expanded="true" signature="659:663" ph="..." />
@@ -41,15 +39,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data-attacker.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rock_paper_scissors/data-attacker.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="rps15.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rock_paper_scissors/rps15.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
+            <state relative-caret-position="870">
               <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="57" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -209,6 +202,16 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/rps15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dnd/dnd_game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
@@ -437,12 +440,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rock_paper_scissors/data-attacker.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/rock_paper_scissors/rps15.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
+        <state relative-caret-position="870">
           <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="57" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -452,8 +452,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_rps15.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        <state relative-caret-position="15">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
             <marker date="1528592042231" expanded="true" signature="659:663" ph="..." />
