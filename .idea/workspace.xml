@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae48c93a-040e-43b5-80f0-ae3753f20855" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/test_rps15.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors/test_rps15.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,24 +17,24 @@
       <file leaf-file-name="test_rps15.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_rps15.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="375">
+              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <marker date="1528592042231" expanded="true" signature="659:663" ph="..." />
-                <marker date="1528592042231" expanded="true" signature="679:683" ph="..." />
-                <marker date="1528592042231" expanded="true" signature="703:707" ph="..." />
-                <marker date="1528592042231" expanded="true" signature="724:728" ph="..." />
-                <marker date="1528592042231" expanded="true" signature="745:749" ph="..." />
-                <marker date="1528592042231" expanded="true" signature="765:769" ph="..." />
-                <marker date="1528592042231" expanded="true" signature="785:789" ph="..." />
-                <marker date="1528592042231" expanded="true" signature="807:811" ph="..." />
-                <marker date="1528592042231" expanded="true" signature="828:832" ph="..." />
-                <marker date="1528592042231" expanded="true" signature="847:851" ph="..." />
-                <marker date="1528592042231" expanded="true" signature="868:872" ph="..." />
-                <marker date="1528592042231" expanded="true" signature="890:894" ph="..." />
-                <marker date="1528592042231" expanded="true" signature="911:915" ph="..." />
-                <marker date="1528592042231" expanded="true" signature="936:939" ph="..." />
+                <marker date="1529118651558" expanded="true" signature="659:667" ph="..." />
+                <marker date="1529118651558" expanded="true" signature="683:687" ph="..." />
+                <marker date="1529118651558" expanded="true" signature="707:711" ph="..." />
+                <marker date="1529118651558" expanded="true" signature="728:732" ph="..." />
+                <marker date="1529118651558" expanded="true" signature="749:753" ph="..." />
+                <marker date="1529118651558" expanded="true" signature="769:773" ph="..." />
+                <marker date="1529118651558" expanded="true" signature="789:793" ph="..." />
+                <marker date="1529118651558" expanded="true" signature="811:815" ph="..." />
+                <marker date="1529118651558" expanded="true" signature="832:836" ph="..." />
+                <marker date="1529118651558" expanded="true" signature="851:855" ph="..." />
+                <marker date="1529118651558" expanded="true" signature="872:876" ph="..." />
+                <marker date="1529118651558" expanded="true" signature="894:898" ph="..." />
+                <marker date="1529118651558" expanded="true" signature="915:919" ph="..." />
+                <marker date="1529118651558" expanded="true" signature="940:943" ph="..." />
               </folding>
             </state>
           </provider>
@@ -173,17 +174,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="722" y="23" width="718" height="823" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2827298" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32977304" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32977304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -452,24 +454,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_rps15.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="375">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1528592042231" expanded="true" signature="659:663" ph="..." />
-            <marker date="1528592042231" expanded="true" signature="679:683" ph="..." />
-            <marker date="1528592042231" expanded="true" signature="703:707" ph="..." />
-            <marker date="1528592042231" expanded="true" signature="724:728" ph="..." />
-            <marker date="1528592042231" expanded="true" signature="745:749" ph="..." />
-            <marker date="1528592042231" expanded="true" signature="765:769" ph="..." />
-            <marker date="1528592042231" expanded="true" signature="785:789" ph="..." />
-            <marker date="1528592042231" expanded="true" signature="807:811" ph="..." />
-            <marker date="1528592042231" expanded="true" signature="828:832" ph="..." />
-            <marker date="1528592042231" expanded="true" signature="847:851" ph="..." />
-            <marker date="1528592042231" expanded="true" signature="868:872" ph="..." />
-            <marker date="1528592042231" expanded="true" signature="890:894" ph="..." />
-            <marker date="1528592042231" expanded="true" signature="911:915" ph="..." />
-            <marker date="1528592042231" expanded="true" signature="936:939" ph="..." />
+            <marker date="1529118651558" expanded="true" signature="659:667" ph="..." />
+            <marker date="1529118651558" expanded="true" signature="683:687" ph="..." />
+            <marker date="1529118651558" expanded="true" signature="707:711" ph="..." />
+            <marker date="1529118651558" expanded="true" signature="728:732" ph="..." />
+            <marker date="1529118651558" expanded="true" signature="749:753" ph="..." />
+            <marker date="1529118651558" expanded="true" signature="769:773" ph="..." />
+            <marker date="1529118651558" expanded="true" signature="789:793" ph="..." />
+            <marker date="1529118651558" expanded="true" signature="811:815" ph="..." />
+            <marker date="1529118651558" expanded="true" signature="832:836" ph="..." />
+            <marker date="1529118651558" expanded="true" signature="851:855" ph="..." />
+            <marker date="1529118651558" expanded="true" signature="872:876" ph="..." />
+            <marker date="1529118651558" expanded="true" signature="894:898" ph="..." />
+            <marker date="1529118651558" expanded="true" signature="915:919" ph="..." />
+            <marker date="1529118651558" expanded="true" signature="940:943" ph="..." />
           </folding>
         </state>
       </provider>
