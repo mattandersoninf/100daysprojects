@@ -17,24 +17,23 @@
       <file leaf-file-name="test_rps15.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_rps15.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+            <state relative-caret-position="15">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <marker date="1529118651558" expanded="true" signature="659:667" ph="..." />
-                <marker date="1529118651558" expanded="true" signature="683:687" ph="..." />
-                <marker date="1529118651558" expanded="true" signature="707:711" ph="..." />
-                <marker date="1529118651558" expanded="true" signature="728:732" ph="..." />
-                <marker date="1529118651558" expanded="true" signature="749:753" ph="..." />
-                <marker date="1529118651558" expanded="true" signature="769:773" ph="..." />
-                <marker date="1529118651558" expanded="true" signature="789:793" ph="..." />
-                <marker date="1529118651558" expanded="true" signature="811:815" ph="..." />
-                <marker date="1529118651558" expanded="true" signature="832:836" ph="..." />
-                <marker date="1529118651558" expanded="true" signature="851:855" ph="..." />
-                <marker date="1529118651558" expanded="true" signature="872:876" ph="..." />
-                <marker date="1529118651558" expanded="true" signature="894:898" ph="..." />
-                <marker date="1529118651558" expanded="true" signature="915:919" ph="..." />
-                <marker date="1529118651558" expanded="true" signature="940:943" ph="..." />
+                <marker date="1529121781463" expanded="true" signature="701:705" ph="..." />
+                <marker date="1529121781463" expanded="true" signature="725:729" ph="..." />
+                <marker date="1529121781463" expanded="true" signature="746:750" ph="..." />
+                <marker date="1529121781463" expanded="true" signature="767:771" ph="..." />
+                <marker date="1529121781463" expanded="true" signature="787:791" ph="..." />
+                <marker date="1529121781463" expanded="true" signature="807:811" ph="..." />
+                <marker date="1529121781463" expanded="true" signature="829:833" ph="..." />
+                <marker date="1529121781463" expanded="true" signature="850:854" ph="..." />
+                <marker date="1529121781463" expanded="true" signature="869:873" ph="..." />
+                <marker date="1529121781463" expanded="true" signature="890:894" ph="..." />
+                <marker date="1529121781463" expanded="true" signature="912:916" ph="..." />
+                <marker date="1529121781463" expanded="true" signature="933:937" ph="..." />
+                <marker date="1529121781463" expanded="true" signature="958:961" ph="..." />
               </folding>
             </state>
           </provider>
@@ -100,6 +99,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,7 +116,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -454,24 +453,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_rps15.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        <state relative-caret-position="15">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1529118651558" expanded="true" signature="659:667" ph="..." />
-            <marker date="1529118651558" expanded="true" signature="683:687" ph="..." />
-            <marker date="1529118651558" expanded="true" signature="707:711" ph="..." />
-            <marker date="1529118651558" expanded="true" signature="728:732" ph="..." />
-            <marker date="1529118651558" expanded="true" signature="749:753" ph="..." />
-            <marker date="1529118651558" expanded="true" signature="769:773" ph="..." />
-            <marker date="1529118651558" expanded="true" signature="789:793" ph="..." />
-            <marker date="1529118651558" expanded="true" signature="811:815" ph="..." />
-            <marker date="1529118651558" expanded="true" signature="832:836" ph="..." />
-            <marker date="1529118651558" expanded="true" signature="851:855" ph="..." />
-            <marker date="1529118651558" expanded="true" signature="872:876" ph="..." />
-            <marker date="1529118651558" expanded="true" signature="894:898" ph="..." />
-            <marker date="1529118651558" expanded="true" signature="915:919" ph="..." />
-            <marker date="1529118651558" expanded="true" signature="940:943" ph="..." />
+            <marker date="1529121781463" expanded="true" signature="701:705" ph="..." />
+            <marker date="1529121781463" expanded="true" signature="725:729" ph="..." />
+            <marker date="1529121781463" expanded="true" signature="746:750" ph="..." />
+            <marker date="1529121781463" expanded="true" signature="767:771" ph="..." />
+            <marker date="1529121781463" expanded="true" signature="787:791" ph="..." />
+            <marker date="1529121781463" expanded="true" signature="807:811" ph="..." />
+            <marker date="1529121781463" expanded="true" signature="829:833" ph="..." />
+            <marker date="1529121781463" expanded="true" signature="850:854" ph="..." />
+            <marker date="1529121781463" expanded="true" signature="869:873" ph="..." />
+            <marker date="1529121781463" expanded="true" signature="890:894" ph="..." />
+            <marker date="1529121781463" expanded="true" signature="912:916" ph="..." />
+            <marker date="1529121781463" expanded="true" signature="933:937" ph="..." />
+            <marker date="1529121781463" expanded="true" signature="958:961" ph="..." />
           </folding>
         </state>
       </provider>

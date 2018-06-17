@@ -29,7 +29,7 @@ def test_invalid_inputs():
 
 def test_rock():
     rps15.game_loop()
-    
+
 
 
 def test_fire():
