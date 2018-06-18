@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ae48c93a-040e-43b5-80f0-ae3753f20855" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock_paper_scissors/test_rps15.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock_paper_scissors/test_rps15.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -173,7 +172,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="722" y="23" width="718" height="823" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2827298" />
       <window_info anchor="bottom" id="TODO" order="6" />
