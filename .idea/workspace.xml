@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae48c93a-040e-43b5-80f0-ae3753f20855" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/error_handling/movie_search_error_edition/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_handling/movie_search_error_edition/program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/error_handling/movie_search_error_edition/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/error_handling/movie_search_error_edition/api.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +18,8 @@
       <file leaf-file-name="test_rps15.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_rps15.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="58" column="18" lean-forward="true" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+            <state relative-caret-position="825">
+              <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
                 <marker date="1529121781463" expanded="true" signature="701:705" ph="..." />
@@ -39,11 +40,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="api.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="api.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/error_handling/movie_search_error_edition/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="program.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/error_handling/movie_search_error_edition/program.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
             </state>
           </provider>
         </entry>
@@ -95,6 +105,7 @@
         <option value="$PROJECT_DIR$/rock_paper_scissors/rps15.py" />
         <option value="$PROJECT_DIR$/rock_paper_scissors/test_rps15.py" />
         <option value="$PROJECT_DIR$/error_handling/movie_search_error_edition/api.py" />
+        <option value="$PROJECT_DIR$/error_handling/movie_search_error_edition/program.py" />
       </list>
     </option>
   </component>
@@ -109,7 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,12 +135,19 @@
             <path>
               <item name="100daysprojects" type="b2602c69:ProjectViewProjectNode" />
               <item name="100daysprojects" type="462c0819:PsiDirectoryNode" />
+              <item name="error_handling" type="462c0819:PsiDirectoryNode" />
+              <item name="movie_search_error_edition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="100daysprojects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100daysprojects" type="462c0819:PsiDirectoryNode" />
               <item name="highest_rated_movie_directors" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,13 +210,13 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2827298" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32977304" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32977304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -218,13 +235,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dnd/dnd_game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="50" column="133" lean-forward="true" selection-start-line="50" selection-start-column="133" selection-end-line="50" selection-end-column="133" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rock_paper_scissors/hands.py" />
     <entry file="file://$PROJECT_DIR$/rock_paper_scissors/15_rock_paper_scissors_1.py" />
     <entry file="file://$PROJECT_DIR$/pomodoro_clock/pomodora_clock.py">
@@ -458,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rock_paper_scissors/test_rps15.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="58" column="18" lean-forward="true" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+        <state relative-caret-position="825">
+          <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
             <marker date="1529121781463" expanded="true" signature="701:705" ph="..." />
@@ -481,8 +491,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/error_handling/movie_search_error_edition/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error_handling/movie_search_error_edition/program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
         </state>
       </provider>
     </entry>
