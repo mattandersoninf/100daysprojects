@@ -7,3 +7,4 @@ import random
 
 Movie = collections.namedtuple('Movie','imdb_code, title, director, keywords,'
                                        'duration, genres, rating, year, imdb_scores')
+
